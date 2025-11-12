@@ -1,7 +1,7 @@
 ```
-Developed by : Rajalakshmi R
-Reg No : 212223110037
-Date : 27.02.2025
+Developed by :Kaif mohamed P
+Reg No : 212222043004
+Date : 27.04.2025
 ```
 
 # Ex.No:1a 
